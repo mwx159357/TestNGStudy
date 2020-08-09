@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- 套件 -->
+<suite name = "七星测试">
+    <!-- 测试集/模块 -->
+    <test name ="specialProp">
+        <!--  测试类  -->
+        <classes>
+            <!-- 单个测试类 -->
+            <class name="com.lemon.api.auto.cases.SpecialPropCase_v3"></class>
+        </classes>
+    </test>
+</suite>
